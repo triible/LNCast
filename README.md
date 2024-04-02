@@ -5,6 +5,8 @@
 
 LNCast is an application and tool designed for sending messages in bulk to LNAddresses on the Lightning Network.
 
+![LNCast](https://github.com/eeguney/twitter-clone-springboot-and-nextjs/blob/main/assets/DEMO.gif?raw=true)
+
 ## Features
 
 -   Easy management via the UI
