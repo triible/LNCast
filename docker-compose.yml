@@ -11,7 +11,7 @@ services:
 
   backend:
     build:
-      context: ./api
+      context: ./server
       dockerfile: dockerfile
     ports:
       - "9010:9010"
