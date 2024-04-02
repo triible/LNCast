@@ -24,9 +24,9 @@ LNCast is an application and tool designed for sending messages in bulk to LNAdd
 
 1. Modify the required values in the `.env` file located in the `server` directory with your Lightning Network credentials:
 
-    LN_CERT=YOUR_LN_CERT
-    LN_REFUND_MACAROON=YOUR_LN_REFUND_MACAROON
-    LN_DECODE_INVOICE_MACAROON=YOUR_LN_DECODE_INVOICE_MACAROON
-    LN_SOCKET=YOUR_LN_SOCKET
+>  LN_CERT=YOUR_LN_CERT
+>  LN_REFUND_MACAROON=YOUR_LN_REFUND_MACAROON
+>  LN_DECODE_INVOICE_MACAROON=YOUR_LN_DECODE_INVOICE_MACAROON
+>  LN_SOCKET=YOUR_LN_SOCKET
 
 2. While in the root directory, run the command `docker-compose up`. Docker will handle the necessary processes and run the application.
